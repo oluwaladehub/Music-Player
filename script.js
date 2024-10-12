@@ -20,7 +20,7 @@ new Vue({
           name: "Clash",
           artist: "Dave ft Stomzy",
           cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZPnNVY-4gufeheTpp_y7PqQ1V8bbmk5lZA&usqp=CAU",
-          source: "https://github.com/oluwaladehub/Music-Player/raw/main/music%20player/mp3/Dave-Ft-Stormzy-Clash-(TrendyBeatz.com).mp3",
+          source: "https://github.com/oluwaladehub/Music-Player/blob/main/mp3/Dave-Ft-Stormzy-Clash-(TrendyBeatz.com).mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
